@@ -2,7 +2,7 @@
   "store.home": {
     "blocks": [
       "flex-layout.row",
-      "rich-text",
+     // "rich-text",
       "info-card#button-right",
       "info-card#button-left"
     ]
