@@ -24,7 +24,7 @@
         "callToActionUrl": "/sale/d",
         "textAlignment": "center"
       }
-  },
+  }, 
   "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
