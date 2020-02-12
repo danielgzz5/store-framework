@@ -36,7 +36,7 @@
 
   "flex-layout.row#top": {
     "children": [
-      "total-products.v2",
+      "total-products.v2", 
       "order-by.v2"
     ]
   }
