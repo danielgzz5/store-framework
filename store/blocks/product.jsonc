@@ -43,7 +43,7 @@
   "stack-layout#brand": {
     "props":{
       "displayMode": "logo",
-      "height":30
+      "height":"30"
     },
     "children": [
       "product-images",
@@ -52,7 +52,10 @@
   },
   "sku-selector":{
     "props":{
-      "initialSelection":"empty"
+      "initialSelection":"empty",
+      "showValueForVariation":"all",
+      "showVariationsErrorMessage":true
+
     }
   },
   "product-images": {
