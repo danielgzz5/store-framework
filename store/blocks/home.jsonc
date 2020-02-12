@@ -5,7 +5,8 @@
       // "rich-text",
       "info-card#button-right",
       "info-card#button-left",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
 
@@ -14,7 +15,7 @@
       "info-card#rethink",
       "flex-layout.col"
       // "rich-text#deletar"
-    ]
+    ] 
   },
 
   "flex-layout.col":{
