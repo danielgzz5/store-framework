@@ -22,11 +22,11 @@
       //"total-products.v2",
       //"order-by.v2",
       "search-fetch-previous",
-      //"search-content",
-      //"filter-navigator.v3",
+      "search-content",
+      "filter-navigator.v3",
       "flex-layout.row#results",
       "search-fetch-more"
-    ]    
+    ]
   },
   "flex-layout.row#results": {
     "children": [
