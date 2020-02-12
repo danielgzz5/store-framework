@@ -22,7 +22,7 @@
       //"total-products.v2",
       //"order-by.v2",
       "search-fetch-previous",
-      //"search-content",
+      "search-content",
       //"filter-navigator.v3",
       "flex-layout.row#results",
       "search-fetch-more"
@@ -50,6 +50,12 @@
       
     }
   },
+  "search-content": {
+    "blocks": ["gallery", "not-found"]
+  },
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
+  },
   "shelf": {
     "blocks": ["product-summary.shelf"],
     "props": {
@@ -76,6 +82,7 @@
       "product-summary-space",
       "product-summary-price",
       "product-identifier.summary",
+      "product-summary-sku-selector",
       "product-summary-buy-button"
     ]
   }
