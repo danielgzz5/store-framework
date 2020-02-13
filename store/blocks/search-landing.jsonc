@@ -13,7 +13,7 @@
     },
     "search-result-layout.customQuery":{
         "props":{
-            "context": {
+            "querySchema": {
                 "orderByField": "OrderByReleaseDateDESC",
                  "hideUnavailableItems": true,
                  "maxItemsPerPage": 8,
