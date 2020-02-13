@@ -17,7 +17,7 @@
       "rich-text#desktop",
       "image#desktop"
     ]
-  },
+  }, 
   
   "responsive-layout.mobile#mobile": {
     "children": [
