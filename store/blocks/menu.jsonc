@@ -11,6 +11,15 @@
     }
 },
 
+"menu-item#major-appliances":{
+
+},
+"menu-item#small-appliances":{
+
+},
+"menu-item#electronics":{
+
+},
 /* bloque de submenu para major */
 "vtex.menu@2.x:submenu#major":{
     "children":[
