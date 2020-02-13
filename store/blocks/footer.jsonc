@@ -25,7 +25,8 @@
         "props": {
             "paymentMethods": [
                 "mastercard", "visa", "diners club"
-            ]
+            ],
+            "showInColor":true
         }
     },
     "flex-layout.col#footer-right-desktop":{
