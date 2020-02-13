@@ -11,11 +11,8 @@
             "src": "https://storecomponents.vteximg.com.br/arquivos/box.png"
         }
     },
-    "store.custom#landing": { 
-        "blocks": [
-          "image#landingbanner", 
-          "search-result-layout.customQuery"
-        ]
-      }
+    "search-result-layout.customQuery":{
+        
+    }
 
 } 
